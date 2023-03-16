@@ -1,4 +1,4 @@
-package com.ventura013.resource.exceptions;
+package com.ventura013.resources.exceptions;
 
 import java.time.Instant;
 
